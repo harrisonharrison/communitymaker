@@ -1,8 +1,19 @@
 <html>
+<head>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Manrope:300,400,600,700&amp;lang=en" />
+
+<style>
+body {background-color: powderblue;}
+h1   {color: #666; 
+font-family: 'Manrope',Arial, sans-serif;
+}
+p    {color: #666;
+font-family: 'Manrope',Arial, sans-serif;}
+</style>
+</head>
 <h1>Welcome to the Community.</h1>
 <p>This is a github file, rendered as HTML</p>
 <p>It coudl be an easy way to edit and display infromation within the Teams channel<p>
 <img src="https://helixcentre.com/_content-img/projects/dri/dri-ipad.jpg" alt="person using an iPad" style="width:100%; height:auto;">
-<a href="javascript:history.back()">Go Back</a>
 </html>
 
