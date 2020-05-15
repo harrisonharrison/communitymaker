@@ -1,6 +1,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Manrope:300,400,600,700&amp;lang=en" />
+<link rel="stylesheet" href="style.css />
 
 <style>
 body {background-color: powderblue;}
